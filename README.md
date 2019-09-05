@@ -1,4 +1,5 @@
-# ZzgCalendar
+#ZzgCalendar
+农历阳历切换
 1.时间转换的核心类是ChineseCalendarTwo里面有个数组iSolarLunarOffsetTable记录1920  -  2050年的所有年份农历和阳历对应的缺省值。简单来说就是农历大年初一对应的阳历本年已过去的天数
  /**
      * 这里面记录的是当年农历和阳历比较的缺省天数
